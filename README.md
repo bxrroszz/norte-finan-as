@@ -13,7 +13,7 @@ com módulo de investimentos e assistente de IA que roda no navegador.
 - 🤖 Assistente IA local (sem API paga)
 
 ## 🚀 Como usar
-Acesse: https://SEU-USUARIO.github.io/norte/
+Acesse: https://bxrroszz.github.io/norte/
 
 Ou rode localmente: basta abrir `index.html` no navegador.
 
